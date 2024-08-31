@@ -6,7 +6,7 @@ Environment Setup
 1. Clone the Repository
    git clone https://github.com/techitdeveloper/Image_Processing_Backend.git
    
-   cd Image_Processing_Backend
+   ```cd Image_Processing_Backend```
 
    2. Create a Virtual Environment
 
