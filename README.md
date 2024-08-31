@@ -36,4 +36,4 @@ SECRET_KEY=your_secret_key_here
 ```OUTPUT_FOLDER```: Directory where output csv files will be stored. Ensure this matches the directory specified in your code (ouptut by default).
 
 5. Accessing the Application
-You can now access the application by navigating to ```http://127.0.0.1:5000``` in your web browser.
+You can now access the application by navigating to ```http://127.0.0.1:5000``` or local host in your web browser.
